@@ -1,1 +1,1 @@
-# houdini_py_snippets
+# SideFX Houdini python snippets.
